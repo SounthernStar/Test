@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!！</h2>
-<h2>成功！！！</h2>
+<h2>Hello World!</h2>
+<h2>success!</h2>
 </body>
 </html>
